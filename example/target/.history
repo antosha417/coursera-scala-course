@@ -1,0 +1,5 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/antosha/AppData/Local/Temp/sbt-structure.xml; session clear-all
+all {file:/C:/Users/antosha/Downloads/example/}root/products {file:/C:/Users/antosha/Downloads/example/}root/test:products
+submit nishtak97@mail.ru G1GQxPOVuVFrlIBZ
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/antosha/AppData/Local/Temp/sbt-structure.xml; session clear-all
+all {file:/C:/Users/antosha/Dropbox/programs/coursera-scala-course/example/}root/products {file:/C:/Users/antosha/Dropbox/programs/coursera-scala-course/example/}root/test:products
